@@ -8,6 +8,6 @@ import { environment } from '@enviroments/environment';
 })
 export class SideMenuHeaderComponent {
 
-  envs = environment
+  envs = environment;
 
  }
